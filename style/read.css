@@ -29,6 +29,7 @@ a {
 }
 .h3pass {
   margin: 5px;
+  color: green;
 }
 .passbook {
   display: flex;
@@ -42,6 +43,9 @@ a {
 }
 img {
   object-fit: cover;
+}
+.currently-reading {
+  color: red;
 }
 footer {
   margin: 50px;
