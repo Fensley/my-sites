@@ -24,6 +24,9 @@ section {
 a {
   color: #6eb8ff;
 }
+.dataone p {
+  color: gray;
+}
 
 .photolist {
   display: flex;
@@ -78,8 +81,4 @@ a {
 .quote {
   max-width: 300px;
   font-family: monospace;
-}
-img {
-  width: 95%;
-  /* object-fit: cover; */
 }
