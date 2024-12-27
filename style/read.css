@@ -8,14 +8,12 @@
 body {
   background-color: #151615;
   color: white;
+  font-family: "Times New Roman", Times, serif;
 }
 section {
   margin: 20px;
-  font-family: monospace;
 }
-.readintro {
-  font-family: monospace;
-}
+
 .readintro p {
   margin: 20px;
   max-width: 500px;
@@ -41,6 +39,9 @@ a {
 }
 .dateread {
   margin: 5px;
+}
+img {
+  object-fit: cover;
 }
 footer {
   margin: 50px;
